@@ -1,0 +1,17 @@
+Array Size,Data Type,Randomized Quicksort (s),Deterministic Quicksort (s)
+100,Random,0.000183,0.000127
+100,Sorted,0.000132,0.000461
+100,Reverse Sorted,0.0002,0.000639
+100,Repeated,6.2e-05,4.4e-05
+500,Random,0.001382,0.000841
+500,Sorted,0.001124,0.017196
+500,Reverse Sorted,0.00102,0.015713
+500,Repeated,0.000238,0.000255
+1000,Random,0.002933,0.002272
+1000,Sorted,0.047566,0.324172
+1000,Reverse Sorted,0.005529,0.190761
+1000,Repeated,0.000728,0.00062
+2000,Random,0.008365,0.006674
+2000,Sorted,0.007118,0.28884
+2000,Reverse Sorted,0.004723,0.280081
+2000,Repeated,0.001214,0.001534
